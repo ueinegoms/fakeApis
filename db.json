@@ -46,7 +46,6 @@
             "cep": "38280000",
             "cidade": "Iturama",
             "cartaoBool": "0",
-            "boletoBool": "1",
             "cartao": {
                 "nome": "Wayne Gomes",
                 "mes": "1",
@@ -64,7 +63,6 @@
             "cep": "38280000",
             "cidade": "Iturama",
             "cartaoBool": "0",
-            "boletoBool": "1",
             "cartao": {
                 "nome": "Wayne Gomes",
                 "mes": "1",
