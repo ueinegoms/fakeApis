@@ -38,39 +38,39 @@
     ],
     "Cadastros": [
         {
-            "Nome": "Wayne Gomes",
-            "Email": "waynegomes.wg@gmail.com",
-            "Cpf": "12312312312",
-            "Endereço": "Rua Abc, n123",
-            "Estado": "MG",
-            "Cep": "38280000",
-            "Cidade": "Iturama",
-            "CartaoBool": "0",
-            "BoletoBool": "1",
-            "Cartao": {
-                "Nome": "Wayne Gomes",
-                "Mes": "1",
-                "Ano": "2020",
-                "Numero": "1234123412341234",
-                "CodSeguranca": "123"
+            "nome": "Wayne Gomes",
+            "email": "waynegomes.wg@gmail.com",
+            "cpf": "12312312312",
+            "endereço": "Rua Abc, n123",
+            "estado": "MG",
+            "cep": "38280000",
+            "cidade": "Iturama",
+            "cartaoBool": "0",
+            "boletoBool": "1",
+            "cartao": {
+                "nome": "Wayne Gomes",
+                "mes": "1",
+                "ano": "2020",
+                "numero": "1234123412341234",
+                "codSeguranca": "123"
             }
         },
         {
-            "Nome": "Wayne Gomes",
-            "Email": "waynegomes.wg@gmail.com",
-            "Cpf": "12312312312",
-            "Endereço": "Rua Abc, n123",
-            "Estado": "MG",
-            "Cep": "38280000",
-            "Cidade": "Iturama",
-            "CartaoBool": "0",
-            "BoletoBool": "1",
-            "Cartao": {
-                "Nome": "Wayne Gomes",
-                "Mes": "1",
-                "Ano": "2020",
-                "Numero": "1234123412341234",
-                "CodSeguranca": "123"
+            "nome": "Wayne Gomes",
+            "email": "waynegomes.wg@gmail.com",
+            "cpf": "12312312312",
+            "endereço": "Rua Abc, n123",
+            "estado": "MG",
+            "cep": "38280000",
+            "cidade": "Iturama",
+            "cartaoBool": "0",
+            "boletoBool": "1",
+            "cartao": {
+                "nome": "Wayne Gomes",
+                "mes": "1",
+                "ano": "2020",
+                "numero": "1234123412341234",
+                "codSeguranca": "123"
             }
         }
     ]
