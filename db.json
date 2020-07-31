@@ -38,6 +38,7 @@
     ],
     "Cadastros": [
         {
+            "id": 0,
             "nome": "Wayne Gomes",
             "email": "waynegomes.wg@gmail.com",
             "cpf": "12312312312",
@@ -55,6 +56,7 @@
             }
         },
         {
+            "id": 1,
             "nome": "Wayne Gomes",
             "email": "waynegomes.wg@gmail.com",
             "cpf": "12312312312",
